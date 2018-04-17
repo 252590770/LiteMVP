@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorTheme">#1196d9</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#000000</color>
+    <color name="darkgrey">#6C6C6C</color>
+    <color name="blue_dialog">#1196d9</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="colorPageBg">#f2f4f5</color>
+
+
+    <!--tab标签栏文字的颜色-->
+    <color name="colorTabText">#585858</color>
+
+</resources>
